@@ -1,0 +1,28 @@
+			body 
+				{
+					width : 1100px;
+					background-color: #FFE4E1;
+					max-width: 95%;
+					margin:auto;
+				}
+			header 
+				{
+					background-image: url("back.jpg");
+					text-align:center;
+					padding:25px;
+					clear:left;
+					margin-bottom:20;
+				}		
+			p
+				{
+					margin:3;
+				}
+			footer
+				{
+					background-image: url("back.jpg");
+					text-align:center;
+					padding:25px;
+					clear:left;
+					margin-bottom:20;
+				}
+			
